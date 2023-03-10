@@ -1,0 +1,8 @@
+$nomention
+$botTyping
+$title[🌏 __Name Generator:__]
+$description[**$randomText[A;B;C;D;E;F;G;H;I;J;K;L;M;N;O;P;Q;R;S;T;U;V;W;X;Y;Z]$randomText[a;b;c;d;e;f;g;h;i;j;k;l;m;n;o;p;q;r;s;t;u;v;w;x;y;z]$randomText[a;j;s;k;b;s;c;e;d;f;h;l;n;p;o;q;y;z;r;x;w;i;t;u;v]$randomText[k;j;z;y;v;i;t;w;x;a;d;c;e;g;h;f;b;n;m;o;l;r;q;y;u;t;i;s;p]$randomText[j;s;t;i;w;u;x;z;l;k;g;h;a;v;b;c;e;d;h;f;n;o;l;m;p;r;q;y;i]]
+$addTimestamp
+$footer[$username]
+$color[$random[0;999999]]
+$footerIcon[$author
