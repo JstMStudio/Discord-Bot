@@ -1,0 +1,5 @@
+$nomention
+$title[JstMStudio Documentation]
+$description[JstMStudio Documentation is a documentation program owned by JstMStudio. JstMStudio Documentation is a high-quality documentation orogram owned and made by JstMStudio. ]
+$footer[©️ JstMStudio 2023]
+$color[ffffff]
