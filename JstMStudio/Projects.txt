@@ -1,0 +1,10 @@
+$nomention
+$title[JstMStudio]
+$description[JstMStudio is currently working on many projects like web development, book series and much more. JstMStudio projects are: 
+
+- Teenager Heroes
+- JstMStudio Super App
+- JstMStudio Documentation
+- JstMStudio Course]
+$footer[©️ JstMStudio 2023]
+$color[ffffff]
