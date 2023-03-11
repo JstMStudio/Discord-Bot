@@ -1,0 +1,13 @@
+$nomention
+$title[Hover Car]
+$description[Hover Car is a vehicle owned by Li Hui and Hu Jie as a way to get around. It could fly around the city and even to outer space. The Hover Car was invented by Li Hui and Hu Jie when they were 11.
+
+Hover Car could go underwater and fly to space. It could help Li Hui and Hu Jie go underwater in the city river to discover and stop villains.
+
+Hover Car offers many awesome features and abilities for Li Hui and Hu Jie. All the features are listed below:
+
+• Flying: Hover Car could fly around Perle, bringing Li Hui and Hu Jie to any place they want.
+• Submarine: Hover Car could also go underwater like a submarine. The Hover Car could bring Li Hui and Hu Jie into the deepest place underwater.
+• Speed: Hover Car could go super fast in the sky, underwater, and on the road.]
+$footer[©️ JstMStudio 2023]
+$color[ffffff]
