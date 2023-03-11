@@ -1,0 +1,4 @@
+$nomemtion
+$title[$username Pulled out a gun on $mentioned]
+$description[$username $randomText[Pulled out a gun and $mentioned push it out of his hands and escaped;$username Pulled out a gun and shot $mentioned;$username Pulled out a gun and pressed the trigger and there was no ammo;$username Pulled out a gun and $mentioned Grabbed it and shot $username;$mentioned jump out of a window on a car;$username Pulled out a gun and Shot $mentioned But $mentioned Didn't care and got a stick and stabbed $username]
+$footer[©️ JstMStudio 2023]
