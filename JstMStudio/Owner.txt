@@ -1,0 +1,5 @@
+$nomention
+$title[JstMStudio Owner]
+$description[Jst Tan is the current sole owner of JstMStudio. Jst Tan founded JstMStudio indie team on September 2023. Jst Tan is the Chief Executive Officer of JstMStudio now. ]
+$footer[©️ JstMStudio 2023]
+$color[ffffff]
