@@ -1,0 +1,5 @@
+$nomention
+$title[Manner]
+$description[Hi there! This server is meant to be a clean server and each and all membere should have manner. We hereby requested you to have manner whike chatting in this server. ]
+$footer[©️ JstMStudio]
+$color[ffffff]
