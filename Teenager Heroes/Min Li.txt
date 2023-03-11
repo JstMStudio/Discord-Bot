@@ -1,0 +1,5 @@
+$nomention
+$title[Min Li]
+$description[Min Li is the older sister of Li Hui and Hu Jie. Min Li is a 21 years old Chinese female. She is a hero and a university student. She is careful, smart and has a good manner. She is very slow at doing stuff. Her power is creativity, drawing and designing. Her gadget is a drawing pen which let her draw and print her creation. ]
+$footer[©️ JstMStudio 2023]
+$color[ffffff]
