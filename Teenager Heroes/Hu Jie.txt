@@ -1,0 +1,5 @@
+$nomention
+$title[Hu Jie]
+$description[Hu Jie is a 13 years old Chinese male. He is the twin brother of Li Hui. He is a brave, fast and playful person. His weakness is that he is very impatient. His power is speed, which is running, tornado and energy generator. His gadget is shield. ]
+$footer[©️ JstMStudio 2023]
+$color[ffffff]
