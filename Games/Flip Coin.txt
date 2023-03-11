@@ -1,0 +1,6 @@
+$nomention
+$title[FlipCoin!]
+$description[
+``When throwing the coin:``
+$addField[Has gone out:;$randomText[face;seal;Oops... I have accidentally dropped the coin, try again!;Oops... I was hungry and with the coin I bought something at McDonald's, try again!]]]
+$color[ffe600]
