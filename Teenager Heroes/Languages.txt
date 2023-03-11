@@ -1,0 +1,5 @@
+$nomention
+$title[Teenager Heroes Languages]
+$description[The language that Teenager Heroes is published in is English and Chinese. The original story is written in English and translated into Mandarin Chinese before publication. More languages are planned in the future. ]
+$footer[©️ JstMStudio 2023]
+$color[ffffff]
