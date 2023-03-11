@@ -1,0 +1,5 @@
+$nomention
+$title[Teenager Heroes Creator]
+$description[The current head writer and creator of the Teenager Heroes book series and all spin-off series is Jst Tan, a Chinese Malaysian. ]
+$footer[©️ JstMStudio 2023]
+$color[ffffff]
