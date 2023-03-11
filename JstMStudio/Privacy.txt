@@ -1,0 +1,6 @@
+$nomention
+$title[JstMStudio Privacy Policy]
+$description[JstMStudio Privacy Policy is the official privacy policy document. A privacy policy is a statement or legal document that discloses some or all of the ways a party gathers, uses, discloses, and manages a customer or client's data. It is accessible here:
+https://jstmstudio.tk/English/about.html]
+$footer[©️ JstMStudio 2023]
+$color[ffffff]
