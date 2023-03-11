@@ -1,0 +1,5 @@
+$nomention
+$title[About JstMStudio]
+$description[JstMStudio is a small studio founded by Jst Tan. JstMStudio is the official founder of the One Unified Future alliance too. JstMStudio is focus on many industries sector, writing stories, video editing, website development and much more. ]
+$footer[©️ JstMStudio 2023]
+$color[ffffff]
