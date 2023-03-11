@@ -1,0 +1,5 @@
+$nomention
+$title[JstMStudio]
+$description[JstMStudio is a small indie multipurpose studio owned by Jst Tan. JstMStudio works on many things, like web development, story writing and much more and is currently working on many projects. ]
+$footer[©️ JstMStudio 2023]
+$color[ffffff]
