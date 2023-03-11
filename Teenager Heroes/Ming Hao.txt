@@ -1,0 +1,5 @@
+$nomention
+$title[Ming Hao]
+$description[Ming Hao is the father of Min Li, Li Hui and Hu Jie and the husband of Hua Mei. Ming Hao is a 40 years old Chinese male scientist.  Ming Hao is very protective of his family, kind and helpful. His power is super strength. His gadget is special gloves. ]
+$footer[©️ JstMStudio 2023]
+$color[ffffff]
