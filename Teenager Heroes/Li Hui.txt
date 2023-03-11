@@ -1,0 +1,5 @@
+$nomention
+$title[Li Hui]
+$description[Li Hui is the older twin sister of Hu Jie. Li Hui is a 14-year-old Chinese. She is shy, but smart, sweet and careful. Her power is technology, which is hacking and computing. Her gadget is bots. ]
+$footer[©️ JstMStudio 2023]
+$color[ffffff]
