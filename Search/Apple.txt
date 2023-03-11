@@ -1,0 +1,5 @@
+$nomention
+$title[Apple]
+$description[Apple Inc. is an American multinational technology company headquartered in Cupertino, California, United States. ]
+$footer[©️ JstMStudio 2023]
+$color[ffffff]
