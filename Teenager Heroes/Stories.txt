@@ -1,0 +1,5 @@
+$nomention
+$title[Teenager Heroes Stories]
+$description[Each season of Teenager Heroes will have 21 books. The story of each book will have a total of 50000 words, or 250 reading minutes/4 hours 10 minutes. ]
+$footer[©️ JstMStudio 2023]
+$color[ffffff]
