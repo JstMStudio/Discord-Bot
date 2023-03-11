@@ -1,0 +1,5 @@
+$nomention
+$title[Be Patient]
+$description[Hello everyone! Please be patient while waiting. Answer will soon come through. Others will help you out soon.]
+$footer[©️ JstMStudio 2023]
+$color[ffffff]
