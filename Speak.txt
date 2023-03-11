@@ -1,0 +1,5 @@
+$message
+$onlyForIDs[1077450378880233512;:x: You don't have permissions to use this command.]
+$nomention
+
+$deletecommand
