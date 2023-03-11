@@ -1,0 +1,9 @@
+$nomention
+$title[About Teenager Heroes]
+$description[In 2100, there are two teenage Chinese twin heroes, named Li Hui and Hu Jie with their parents in Perle out for an adventure to protect their mighty city!
+
+Teenager Heroes is a Science Fiction and Adventure book series, book series focused on the future of science and adventures. The series featured the main characters, Li Hui and Hu Jie, the Chinese twins off on an awesome adventure in their city, Perle.
+
+Teenager Heroes focus on Asian culture. Each season in Teenager Heroes has 21 stories in Mandarin Chinese and English and is published by JstMStudio. It is published in text-based stories, videos, and audiobooks. It is created and written by Jst Tan. ]
+$footer[©️ JstMStudio 2023]
+$color[ffffff]
