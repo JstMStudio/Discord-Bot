@@ -1,0 +1,3 @@
+$nomention
+$kickMention[]
+$message[$username had been kicked from $serverName!]
