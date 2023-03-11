@@ -1,0 +1,10 @@
+$nomention
+$message[
+$title[Contacting Us]
+$description[Welcome to JstMStudio Discord bot. We would like to thanks you for using JstMStudio official Discord bot. 
+
+JstMStudio is a small indie studio based in Malaysia that focus on many things, like web development, story writing, video editing and much more. 
+
+JstMStudio Discord bot is a multipurpose Discord bot that could do moderation, search for information, games, get information about One Unified Future alliance, JstMStudio studio, JstMStudio projects.  ]
+$footer[©️ JstMStudio 2023]
+]
