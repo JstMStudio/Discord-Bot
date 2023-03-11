@@ -1,0 +1,10 @@
+$nomention
+$title[Teenager Heroes Format]
+$description[Teenager Heroes is currently published in many types of formats by JstMStudio. Each format is available in all languages and book series under Teenager Heroes. 
+
+Text-based EBooks (PDF, EPUB)
+Audiobooks (MP3)
+Video (MP4, MOV)
+Website (HTML)]
+$footer[©️ JstMStudio 2023]
+$color[ffffff]
