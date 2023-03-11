@@ -1,0 +1,5 @@
+$nomention
+$title[Super App]
+$description[Hi $username. JstMStudio currently have a web app with all software services provided by JstMStudio. You could use all JstMStudio software services on our web app today by accessing it here.]
+$footer[©️ JstMStudio 2023]
+$color[ffffff]
