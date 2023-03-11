@@ -1,0 +1,5 @@
+$nomention
+$title[Tencent]
+$description[Tencent Holdings Ltd. is a Chinese multinational technology and entertainment conglomerate and holding company headquartered in Shenzhen. It is one of the highest grossing multimedia companies in the world based on revenue. ]
+$footer[©️ JstMStudio 2023]
+$color[ffffff]
