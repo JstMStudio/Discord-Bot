@@ -1,0 +1,5 @@
+$nomention
+$title[Terms of Services]
+$description[JstMStudio Terms Of Services (TOS) is available on our main website for everyone to view, understand and agree. JstMStudio TOS contain all of the terms of using JstMStudio products including thsi bot. Please access it here: https://jstmstudio.tk/English/about.html]
+$footer[©️ JstMStudio 2023]
+$color[ffffff]
