@@ -1,0 +1,4 @@
+$nomention
+$title[🎲 Dice Game 🎲]
+$description[You got a $random[1;6]. Good job!]
+$footer[Command requested by $username]
