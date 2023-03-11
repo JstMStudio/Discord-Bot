@@ -1,0 +1,7 @@
+$nomention
+$title[Too much members]
+$description[Hello everyone! Unfortunately, too much members are now joining the server together and server management is currently having issues approving each and all of you to enter. 
+
+The current waiting time to join the server is 15-30 minutes, please wait patiently while server management sorted everything out. Thanks you for your patient. ]
+$footer[©️ JstMStudio 2023]
+$color[ec0f0f]
