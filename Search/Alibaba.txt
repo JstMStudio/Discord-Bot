@@ -1,0 +1,5 @@
+$nomention
+$title[Alibaba]
+$description[Alibaba Group Holding Limited, also known as Alibaba, is a Chinese multinational technology company specializing in e-commerce, retail, Internet, and technology. ]
+$footer[©️ JstMStudio 2023]
+$color[ffffff]
