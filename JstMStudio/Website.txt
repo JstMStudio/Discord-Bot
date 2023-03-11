@@ -1,0 +1,5 @@
+$nomention
+$title[Official Website]
+$description[JstMStudio website is the main site of JstMStudio with JstMStudio TOS, Privacy, Community Guidelines, Store and etc. It is accessible here: https://jstmstudio.tk]
+$footer[©️ JstMStudio 2023]
+$color[ffffff]
