@@ -1,0 +1,5 @@
+$nomention
+$title[Teenager Heroes Culture]
+$description[The genre of Teenager Heroes is an adventure, superhero and science-fiction book series, announced by JstMStudio. ]
+$footer[©️ JstMStudio 2023]
+$color[ffffff]
