@@ -1,0 +1,7 @@
+$nomention
+$title[Bot Information]
+$description[JstMStudio Bot is a multipurpose bot built by JstMStudio. JstMStudio Bot is a information and moderation bot. JstMStudio Bots could perform many duties and it is currently free for everyone to use.
+Users: $allMembersCount
+Online Time: $hostingExpireTime
+Owner: Jst Tan ( $botOwnerID )]
+$footer[©️ JstMStudio 2023]
