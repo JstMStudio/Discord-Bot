@@ -1,0 +1,5 @@
+$nomention
+$title[Revolt.chat]
+$description[Revolt.chat is a open source voIP similar and as an alternative to Discord. Revolt.chat is free for everyone to use. ]
+$footer[©️ JstMStudio 2023]
+$color[ffffff]
