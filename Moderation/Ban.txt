@@ -1,0 +1,3 @@
+$nomention
+$banID[]
+$message[$username had been banned from $serverName]
