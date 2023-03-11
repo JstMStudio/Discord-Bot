@@ -1,0 +1,5 @@
+$title[💯 is truth & ❌ is dare]
+$nomention
+$description[Should the user $message pick Truth or Dare? ]
+$addReactions[💯;❌]
+$footer[$username - created by the user]
