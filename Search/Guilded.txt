@@ -1,0 +1,5 @@
+$nomention
+$title[Guilded]
+$description[Guilded is a VoIP, instant messaging and digital distribution platform designed by Guilded Inc. and owned by Roblox Corporation. Guilded is based in San Francisco. Users communicate with voice calls, video calls, text messaging, media and files in private chats or as part of communities called "guilds". ]
+$footer[©️ JstMStudio 2023]
+$color[ffffff]
